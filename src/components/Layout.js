@@ -1,10 +1,8 @@
-import React from "react"
-
-import Navbar from "./NavBar"
-import Footer from "./Footer"
-
 import "normalize.css"
+import React from "react"
 import "../assets/css/main.css"
+import Footer from "./Footer"
+import Navbar from "./NavBar"
 
 function Layout(props) {
   return (
