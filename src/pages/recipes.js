@@ -2,10 +2,12 @@ import React from "react"
 
 import Layout from "../components/Layout"
 
-export default function HomePage() {
+const RecipesPage = () => {
   return (
     <Layout>
-      <h1>Home Page</h1>
+      <h1>Recipes Page</h1>
     </Layout>
   )
 }
+
+export default RecipesPage
