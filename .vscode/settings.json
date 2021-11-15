@@ -1,7 +1,7 @@
 {
   "editor.tabSize": 2,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontFamily": "Operator Mono",
+  // "editor.fontFamily": "Operator Mono",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },

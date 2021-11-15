@@ -1,7 +1,6 @@
 import { StaticImage } from "gatsby-plugin-image"
 import React from "react"
 import Layout from "../components/Layout"
-import QueryData from "../examples/QueryData"
 
 export default function HomePage() {
   return (
@@ -22,7 +21,6 @@ export default function HomePage() {
             </div>
           </div>
         </header>
-        <QueryData />
       </main>
     </Layout>
   )
