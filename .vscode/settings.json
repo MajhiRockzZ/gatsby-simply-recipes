@@ -6,5 +6,5 @@
     "javascript": "javascriptreact"
   },
   "gitlens.codeLens.enabled": false,
-  "cSpell.words": ["MajhiRockzZ", "yellowgreen"]
+  "cSpell.enabled": false
 }
