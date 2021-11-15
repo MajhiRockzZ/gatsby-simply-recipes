@@ -4,5 +4,7 @@
   "editor.fontFamily": "Operator Mono",
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
-  }
+  },
+  "gitlens.codeLens.enabled": false,
+  "cSpell.words": ["MajhiRockzZ"]
 }
