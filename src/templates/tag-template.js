@@ -9,7 +9,7 @@ const TagTemplate = ({ data, pageContext }) => {
   return (
     <Layout>
       <main className="page">
-        <h2>{pageContext}</h2>
+        <h2>{pageContext.tag}</h2>
         <div className="tag-recipes">
           <RecipesList recipes={recipes} />
         </div>
